@@ -12,7 +12,7 @@ One sentence pitching a ridiculous invention that fixes a tiny everyday annoyanc
 node main.ts
 ```
 
-This writes the pitch to `/output/entry.txt` (one sentence, 117 characters).
+This writes the pitch to `/output/entry.txt` (one sentence, 118 characters).
 
 ---
 
